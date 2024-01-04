@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**4ndr01dev/4ndr01dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there, I'm Álvaro Andrade! 👨‍💻
 
-Here are some ideas to get you started:
+🚀 Passionate about turning ideas into code and creating digital solutions that make a difference. With a broad experience across a range of technologies and a special love for Full Stack development, I thrive on tackling new challenges and constantly learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔨 **My Skills:**
+- 🌐 **Full Stack Web Development:** Experienced in Vue, React, Angular, and .NET Core, crafting intuitive user interfaces and efficient backends.
+- 💾 **Databases:** Skilled with MySQL, PostgreSQL, and increasingly curious about unstructured databases.
+- 📊 **Business Intelligence and Data Analysis:** Drawn to the power of data, I've implemented solutions that help businesses make informed decisions.
+- 🔬 **Research and Machine Learning:** My academic work in analyzing electrocardiograms using Cycle GAN highlights my ability to apply advanced ML techniques to real-world problems.
+
+🌱 **Constantly Learning:**
+- 📚 Currently diving deeper into microservices architectures .
+- 🤖 Fascinated by new technologies and emerging trends in the IA world.
+
